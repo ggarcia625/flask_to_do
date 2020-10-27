@@ -10,6 +10,10 @@ def home():
 <head></head>
 <body>
 <h1>Hello World</h1>
+<p>
+<a href="/vacation">vacation</a>
+</p>
+
 </body>
 </html>
 '''
@@ -21,6 +25,9 @@ def vacation():
 <head></head>
 <body>
 <h1>You Are on Vacation</h1>
+<p> 
+<a href="/">home page</a>
+</p>
 </body>
 </html>
 '''
